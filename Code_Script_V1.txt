@@ -11498,7 +11498,7 @@ spawn(function()
             if game:GetService("Lighting").Sky.MoonTextureId=="http://www.roblox.com/asset/?id=9709149052" or game:GetService("Lighting").Sky.MoonTextureId=="http://www.roblox.com/asset/?id=9709149431" then
                 wait(2.0)
                 OrionLib:MakeNotification({
-                    Name = "In KiritoIn Kirito",
+                    Name = "In Kirito",
                     Content = "Turn Off Hop Find Moon Please",
                     Image = "rbxassetid://4483345998",
                     Time = 5
